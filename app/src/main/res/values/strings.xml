@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lb4</string>
+    <string name="sqrt">√</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="mod">%</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="pi">π</string>
+</resources>
